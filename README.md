@@ -4,8 +4,8 @@ Notown Records is a musical information and management system.
 Introduction
 
 Notown records has decided to store information about musicians who perform on its albums(as well as other company data) in a database. In this project, we have designed the conceptual schema for notown and ER diagram based on following requirements.
-a) Each musician that records at Notown has an SSN, a name, an address and a phone No.they may have one phone No.
-b) Each instruments used in songs recorded at Notown has a name(e.g. guitar, Synthesizer and flute) and a musical key(e.g. C,B-flat,E-flat).
+## a) Each musician that records at Notown has an SSN, a name, an address and a phone No.they may have one phone No.
+### b) Each instruments used in songs recorded at Notown has a name(e.g. guitar, Synthesizer and flute) and a musical key(e.g. C,B-flat,E-flat).
 c) Each album recorded on the Notown label has a title, a copyright date, a format(e.g.  CD or MC), and a album identifier.
 d) Each song recorded at Notown has a title and an author.
 e) Each musician may play sevaralinstruments, and a given instruments may be played by sevaral musucians.
